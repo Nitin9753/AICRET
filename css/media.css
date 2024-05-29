@@ -1,0 +1,342 @@
+@media screen and (max-width:1279px) {
+body { -webkit-text-size-adjust: none;}
+}
+
+@media screen and (max-width:1599px) { 
+.navbar-light .navbar-nav .nav-link { padding: 30px 10px; font-size: 14px;}
+.dropdown-item {font-size: 14px;}	
+.bg-light { padding: 0 !important; }
+/*.midd-banner-slide { height: 560px; }*/
+.midd-banner-slide .video_title { font-size: 62px; }
+.midd-banner-slide p { font-size: 20px; }
+.technology-section, .subscribe-section, .blogpost-section, .cert-spec-section, .ttm-spec-section { padding: 80px 0; }
+h2.cmn-hd { font-size: 32px; margin-bottom: 80px; }
+h2.cmn-hd span { font-size: 22px; }
+.certifications-cnt { padding: 32px; }
+.certifications-hd { font-size: 22px; margin-bottom: 30px; }
+.certifications-img { margin-bottom: 30px; }
+.training-hd, .tech-hd { font-size: 32px; }
+.training-partner-desc p { margin-bottom: 20px; }
+.technology-section { height: 500px; }
+.blog-card-hd { font-size: 22px; }
+.blog-desc { font-size: 18px; }
+.subscribe-hd { font-size: 32px; }
+.subscribe-hd span { font-size: 22px; }
+.viewall-btn { margin-top: 80px; }
+h1.cmn-hd, .certificate-banner-cnt h1 { font-size: 62px; line-height: 62px; }
+.certificate-details ul li { padding:0 50px; font-size: 18px; }
+h2.inner-hd { font-size: 32px; }
+.cmn-section { padding: 80px 0; }
+.maintenance-section h2 {margin:50px 0;}
+}
+
+@media screen and (min-width:1200px) and (max-width:1365px) { 
+.navbar-light .navbar-nav .nav-link { padding: 30px 6px; }
+.btn { min-width: 120px; padding: 0 10px; }
+}
+
+@media screen and (max-width:1199px) {
+body { font-size: 15px; }
+.navbar-light .navbar-nav .nav-link { padding-left: 7px; padding-right: 7px; }
+.btn { min-width: 120px; }
+.midd-banner-slide .video_title { font-size: 58px; }
+.midd-banner-slide p { font-size: 24px; width:60%; }
+.technology-section, .subscribe-section, .blogpost-section, .cert-spec-section, .ttm-spec-section { padding: 60px 0; }
+h2.cmn-hd { font-size: 30px; margin-bottom: 60px; }
+h2.cmn-hd span { font-size: 20px; }
+.certifications-cnt { padding: 25px; }
+.training-hd, .tech-hd { font-size: 28px; line-height: normal; }
+.training-partner-desc { padding-left: 0; }
+.blog-card-hd { font-size: 20px; }
+.blog-desc { font-size: 16px; }
+.viewall-btn { margin-top: 60px; }
+.subscribe-section { height: 450px; }
+ul.ftr-link li br { display: none; }
+.mission-value-box { padding: 20px 10px; }
+.certified-icon { width: 180px; height: 180px; padding: 20px; }
+.midd-banner-slide:hover, .midd-inner-banner:hover { transform: scale(1); transition: none; }
+h1.cmn-hd, .certificate-banner-cnt h1 { font-size: 52px; line-height: 52px; }
+.corevalue-hd { line-height: 28px; min-height: inherit; }
+.team-img { width: 180px; height: 180px; }
+.certificate-details ul li { padding:0 20px; font-size: 18px; }
+h2.inner-hd { font-size: 30px; }
+.navbar-light .navbar-toggler { margin-top: 17px; }
+.navbar-light .navbar-nav .nav-link.active { border-top: none; border-left: 5px solid var(--primary-color); }
+.navbar-light .navbar-nav .nav-link { padding: 10px; }
+.topright-btn { margin-bottom: 20px; }
+.dropdown-menu { box-shadow: none; border: 1px solid rgba(0,0,0,.1); border-radius: 6px; }
+.dropdown-menu li .dropdown-item {font-size: 14px;}
+.cmn-section { padding: 60px 0; }
+.dropend .dropdown-menu { max-height: 165px; }
+.dropdown:hover > .dropdown-menu, .dropend:hover > .dropdown-menu { margin-left: 1rem; }
+.midd-banner-slide .video_title { font-size: 44px; line-height:56px; }	
+	.banner-tags .btn {height: 34px; line-height: 32px; font-size:13px;}	
+	
+	.copyright .container {padding-top: 0;}
+	.listing-pages {padding-bottom: 0;}
+	.listing-pages h1 {margin-bottom: 30px;}
+	
+	.common-cnt {padding: 30px;}
+	.common-cnt h2 {font-size: 36px; line-height: 50px;}	
+	.home-accordion .accordion-button, .cta-cnt-area p {font-size: 18px;}
+	.cta-cnt-area {margin: 0 5%;}
+	.cta-cnt-area h3 {font-size: 32px;}
+	.cta-cnt-area h3 {margin-top: 100px;}
+	.topright-btn a {margin-left: 7px;}
+	.navbar-collapse {background: #000; margin: 0 -.75rem; padding: 0 15px;}
+	
+	
+	.job-listing-section .nav-tabs .nav-link {margin-bottom:15px; font-size:16px;}	
+	.career-tabs .btn-outline:after {right:17px;}
+	.career-tabs .accordion-header img {width:24px;}
+	.career-tabs .accordion-header h2 {font-size:16px; margin-right:20px; padding-top:7px;}
+	.career-tabs .accordion-header h2 span {margin-bottom:0; top:0;}
+	.career-tabs .accordion-header span {margin-bottom:10px; position:relative; top:-10px;}
+	.accordion-header .btn {white-space:nowrap;}
+	.accordion-header div.ms-auto {padding-top:10px;}
+	.testimonial-section h2 { font-size: 34px;   line-height: normal;}
+	.midd-banner-slide:hover, .midd-inner-banner:hover {transform: scale(1);transition: none;}
+	
+	/*.midd-banner-slide video {height:450px; object-fit: fill;  object-position: left; width:auto;}*/
+	.evlevate_content h2{font-size: 34px;line-height:normal;}
+	.evlevate_content_bt p, .evlevate_content p{font-size: 16px;}
+	.not-found {padding:0 10%;}
+	.sidebar-thumb-new {padding: 20px;}
+}
+
+@media screen and (max-width:1023px) {
+body { font-size: 14px; }
+.midd-banner-slide p { font-size: 16px; }
+.technology-section, .subscribe-section, .blogpost-section, .cert-spec-section, .ttm-spec-section { padding: 50px 0; }
+h2.cmn-hd { font-size: 26px; margin-bottom: 50px; }
+h2.cmn-hd span { font-size: 18px; }
+.viewall-btn { margin-top: 50px; }
+.certifications-cnt p { min-height: 90px; }
+.navbar-toggler:focus { box-shadow: none; }
+.training-hd, .tech-hd { font-size: 22px; line-height: normal; }
+.technology-section { height: auto; }
+.blog-card { margin-bottom: 15px; }
+.col-lg-12.d-flex.align-items-center.justify-content-between { display: block !important; }
+.subscribe-l, .subscribe-r { width: 100%; }
+.subscribe-section { height: auto; }
+.subscribe-hd { margin-bottom: 50px; }
+.copyright { height: 70px; line-height: 70px; margin-top: 30px; }
+.logo-footer { margin-bottom: 20px;  }
+.logo-footer img{width: 40%}
+.footer-section { padding-top: 30px; }
+.midd-inner-banner { min-height: 400px; }
+h1.cmn-hd, .certificate-banner-cnt h1 { font-size: 42px; line-height: 42px; }
+ul.trustedby-logos li img { max-width: 85%; }
+.social-icon a { margin-right: 7px; }
+.team-img { width: 140px; height: 140px; }
+.corevalue-hd { font-size: 22px; }
+p.bigfont { font-size: 22px; }
+.certificate-details ul li { padding:0 10px; font-size: 14px; }
+.certificate-banner { min-height: 350px; }
+.certifciate-tab { margin-top: 30px;  }
+h2.inner-hd { font-size: 26px; }
+.certification-img-hd { font-size: 20px; }
+.examination-structure-details h3 { font-size: 18px; }
+.cmn-section { padding: 50px 0; }
+.form-career .form-row {display: table; width: 100%;}
+.form-career .form-row .form-third {width: 100%; display: block; padding-bottom: 15px;}
+		
+	
+	.footer-section .container {padding-top: 50px;}	
+	.copyright .container {padding-top: 0;}
+	.listing-pages {padding-bottom: 0;}
+	
+	.listing-pages h1 {margin-bottom: 30px; font-size: 48px; line-height:normal;}
+	.common-cnt h2 {font-size: 36px; line-height: 50px;}	
+	.home-accordion .accordion-button, .cta-cnt-area p {font-size: 18px;}
+	.common-cnt p {font-size: 14px;} 
+	.cta-cnt-area {margin: 0 50px;}
+	.cta-bg-card {display: block; min-height: 400px;}
+	.cta-cnt-area h3 {margin-top: 100px;}
+	.footer-section {margin-top: 0px; padding-top: 0;}
+	.ftr-newsletter {margin-top: 0; width: 100%;}
+	.sidebar-thumb-new {display:none;}
+	
+	/*.midd-banner-slide video {height:340px; object-fit: fill;  object-position: left; width:auto;}*/
+}
+
+@media screen and (max-width:991.5px) {
+.table-row.heading {display: none;}
+.row-item.subheading {font-size: 20px;}
+.row-item h6 {font-size: 14px;flex: 0 0 100%;color: #CFA935;}
+.row-item {flex-wrap: wrap;flex: 0 0 100%;}
+.table-row {flex-wrap: wrap;}
+.section_heading h2 {font-size: 30px;}
+.exam-cards {margin-top:50px;}
+}
+
+@media screen and (max-width:767.5px) {
+.midd-banner-slide .video_title { font-size: 34px; margin-top: 30px;  line-height: 50px; margin-bottom:30px;}
+.midd-banner-slide p { font-size: 18px; width:100%; }
+.midd-banner .owl-theme .owl-nav.disabled+.owl-dots { right: 10px; bottom: 10px; }
+h2.cmn-hd { font-size: 24px; margin-bottom: 40px; }
+h2.cmn-hd span { font-size: 16px; }
+.training-partner-img { margin-bottom: 15px; }
+.blog-card img { height: 350px; }
+.blog-card-hd { font-size: 18px; }
+.blog-desc { font-size: 14px;  }
+.blog-cnt { margin-bottom: 15px; }
+.subscribe-hd { font-size: 24px; }
+.subscribe-hd span { font-size: 18px; }
+.subscribe-r input[type="text"] { padding-right: 135px; }
+.ftr-link { margin-bottom: 25px; }
+.copyright { height: auto; line-height: normal; padding-top: 25px; padding-bottom: 25px;}
+.midd-inner-banner { min-height: 300px; }
+.midd-inner-banner.career-banner { min-height: 500px; }
+h1.cmn-hd, .certificate-banner-cnt h1 { font-size: 32px; line-height: 32px; }
+.corevalue-desc { height: auto; margin-bottom: 0px; }
+.certified-box .corevalue-hd, .certified-icon  { margin-bottom: 20px; }
+p.bigfont { font-size: 20px; }
+ul.trustedby-logos { height: auto; flex-wrap: wrap; }
+ul.trustedby-logos li { width: 50%; text-align: center; }
+h2.inner-hd { font-size: 22px; }
+.certificate-banner-cnt { padding-top: 30px; }
+.certificate-details { top: 110%; padding: 10px; }
+.certifications-cnt .certifications-img {width: 50%; }
+.certifications-img {width: 40%; }
+.certificate-details ul { flex-wrap: wrap; }
+.certificate-details ul li { width: 50%; border-right: none; padding: 0 10px; text-align:left; margin-bottom: 10px; line-height: 18px; border-bottom: 1px solid var(--light-gray-color1); padding-bottom: 10px; }
+.certificate-details ul li:last-child { padding-bottom: 0; border: none; }
+.certificate-details ul li:nth-child(3) { padding-bottom: 0; border: none; }
+.certifciate-tab {margin-top: 0px; display: none;}
+.values .card {padding: 2em 1em;}
+.values .card h3 {font-size:18px; line-height:26px;}	
+.certifciate-tab ul li { margin-right: 0; margin-bottom: 10px;}
+.certifciate-tab ul li a { padding-left: 5px; padding-right: 5px; }
+.accordion-button span { font-size: 18px; width: 90%}
+.cert-spec-cnt .owl-theme .owl-dots .owl-dot span { margin: 5px; width: 20px; }
+.dropdown-menu { min-width: 100%; max-height: 200px; overflow: auto; padding: 0.5em;} 
+.dropdown-menu ul li { width: 100%; }
+.cert-spec-cnt .owl-theme .owl-item .item{width:92%; margin: auto;}
+.cert-spec-cnt .owl-theme .owl-nav button.owl-prev, .cert-spec-cnt .owl-theme .owl-nav button.owl-next { width: 30px; height: 30px;}
+.cert-spec-cnt .owl-theme .owl-nav button span {font-size: 20px; height: 100%; display: block; width: 100%; line-height: 1.3;}
+.cert-spec-cnt .owl-theme .owl-nav button.owl-prev {left: 0px;}
+.cert-spec-cnt .owl-theme .owl-nav button.owl-next {right: 0px;}
+.accordion-button span .career-ic {display:none; }
+	
+	
+	
+.listing-pages h1 {margin-bottom: 30px; font-size: 36px; line-height:normal;}
+h2 {font-size: 48px; line-height: 58px;}
+h3 {font-size: 24px; line-height: 30px;}
+	.certification-page .listing-pages {padding-bottom: 0; margin-bottom: 0;}	
+	.footer-section .container {padding-top: 50px;}
+	.listing-pages {padding-bottom: 0;}
+	/*.listing-box:last-child {margin-bottom: 0;}*/
+
+	.common-cnt {padding: 20px;}
+	.common-cnt h2 {font-size: 24px; line-height: 30px;}	
+	.home-accordion .accordion-button, .cta-cnt-area p {font-size: 15px;}
+	.common-cnt p {font-size: 13px;} 
+	.cta-bg-card {min-height: 300px;}
+	.cta-cnt-area {margin: 0 20px; }
+	.cta-cnt-area h3 {font-size: 24px; font-weight: 500; margin-top: 50px;}
+	.footer-section {padding: 15px; padding-top: 0px;}
+	.ftr-newsletter {margin-top: 0;}
+	.ftr-newsletter {width: 100%;}
+	.midd-banner {margin-top: 75px;}
+	.header-section {background: #000;}
+	.copyright .container {padding-top: 20px;}
+	
+	.job-listing-section .nav-tabs .nav-link {margin-bottom:15px; font-size:14px;}	
+	.career-tabs .accordion-header {display:block; margin-bottom:40px;}
+	.career-tabs .accordion-header img {width:20px;}
+	.career-tabs .accordion-header h2  {width:100%; line-height:normal; margin-bottom:5px;}
+	.career-tabs .accordion-header h2 span {margin-bottom:0; top:0;}
+	.career-tabs .accordion-header span {display:block; margin-bottom:10px; position:relative; top:-5px;}
+	.career-tabs .btn-outline:after {right:17px;}
+	.career-tabs .accordion-body {padding:5px;}
+	
+	.yearsexp {top:-80px; max-width:100%;}
+	.yearsexp .years-cnt {padding:0 0 0 20px; text-align:left; font-size:16px;}
+	.testimonial-section h2 {font-size:28px; line-height:normal;}
+	.esteemed-partners-cnt .corevalue-desc {padding:0;margin-bottom:20px;}
+	
+	.midd-banner .owl-theme .owl-dots {bottom: 5px; right: 50%;  margin-right: -80px;}
+	.midd-banner-slide {align-items:end;}
+	.midd-banner-slide .video_title {text-align:center; font-size:22px; line-height:normal;}
+	.midd-banner-slide video {height:250px; object-fit: cover;  object-position: right; }
+	.midd-banner-slide .video_title br {display:none;}
+	
+	.myforms {padding:0 20px;}
+	form .action-button {margin:5px 0 0 20px !important;}
+	.wpcf7 form .wpcf7-response-output {margin:10px 20px; text-align:center;}
+	.sgpb-popup-builder-content-2262.sgpb-popup-builder-content-html .wp-block-column.is-layout-flow.wp-block-column-is-layout-flow:first-child,
+	.testimonial-section .owl-nav{display: none;}
+
+	.evlevate_image {max-width: 100%;margin-bottom: 2rem;}
+
+	.trademakr-img img {max-width: 100%;width: 100%;margin-bottom: 1.5rem;}
+	.trademakr-text h2, .importance_heading h2 {font-size: 24px;line-height: normal;}
+	.trademakr-text p {margin-bottom: -10px !important;}
+	.core_value {padding: 20px;}
+	.core_value h3{font-size: 18px;}
+	.testimonial-section .tm-user h3 {font-size: 18px;}
+	.page-template-partner-template .sgpb-main-html-content-wrapper .myforms .action-button{margin: 5px 0 0 0px !important;}
+	.page-template-partner-template .sgpb-main-html-content-wrapper .myforms .cf7mls-btns{margin: 0px auto !important;}
+	div#sgpb-popup-dialog-main-div {max-width: 95% !important;}
+	.exam--steps li { margin-bottom: 0rem;}
+	.maintenance-section h2 {margin:50px 0; font-size:40px; line-height:normal;}
+	.sidebar-thumb-new {padding:40px; margin:20px; position:relative; top:-50px;}
+	ul.faq-list {margin-left: 10px;}
+	
+	.indextabs ul li {margin-right: 3px; background: var(--primary-color); border-radius: 20px;  padding: 0 20px;  margin-bottom: 10px;}
+	.sidebar-thumb-new {display:none;}
+	.inner-page.certification-page a.btn {width:100%;}
+	.btn-lg {height: 44px; line-height: 42px;}
+	
+	/* common font size*/
+	.common-cnt p, .home-accordion .accordion-button, .cta-cnt-area p, ol.faq-list-title li, .common-cnt .accordion-body li {font-size:18px;}
+
+}
+@media screen and (max-width:480px)
+{
+.navbar>.container-fluid {
+    padding: 0 var(--bs-gutter-x, .75rem);
+}	
+}
+
+
+@media (min-width: 992.5px) {
+.row-item h6 {display: none;}
+.heading .row-item:first-child, .row-item.subheading {flex: 0 0 25%;}
+.certification-vs-completion .heading .row-item:first-child, 
+.certification-vs-completion .row-item.subheading,
+.completion_grid .heading .row-item:first-child, 
+.completion_grid .row-item.subheading 
+{flex: 1;}
+}
+
+@media (min-width: 1199px) {
+	.navbar-expand-lg .navbar-nav {margin-left: 30px;}	
+}
+@media (min-width: 1400px) {
+  .cta-cnt-area {padding: 0 50px;}
+	h3{font-size: 20px;}	
+}
+@media (min-width: 1500px) {
+  .cta-cnt-area {padding: 0 92px;}
+}
+@media (min-width: 1600px) {
+.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1500px;
+}
+}
+@media (min-width: 1800px) {
+.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1650px;
+}
+}
+@media screen and (min-width:1200px) and (max-width:1365px) { 
+.navbar-expand-lg .navbar-nav {margin-left:0}
+.navbar-light .navbar-nav .nav-link {font-size:13px;}
+}
+
+
+
+

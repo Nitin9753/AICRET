@@ -1,0 +1,170 @@
+root {
+  --primary-color: #CFA935;
+  --secondary-color: #CFA935;
+  --body-font-color: #000000;
+  --light-gray-color: #F3F4F6;
+  --light-gray-color1: #e4e4e4;
+  --black-color: #000000;
+  --white-color: #ffffff;
+  --darkgrey-color: #F3F3F3;
+  --hover-color: #BA982F;
+}
+
+body{
+    background-color: #FFF;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active  {
+  -webkit-text-fill-color: #000 !important;
+}
+
+/* white text*/
+.midd-banner-slide .video_title, .navbar-light .navbar-nav .nav-link a, .cta-cnt-area h3, .btn-primary:hover, .btn-check:focus+.btn-primary, .btn-primary:focus, .btn-primary:active:focus, .values .card:hover h3, .certi-listing-brief h3, .home .navbar-light .navbar-nav .nav-link, .row_innter-item .btn:hover, .cta-cnt-area p, .values .card h3, .awsm-job-form-inner h2, .awsm-job-form-group label {color: var(--white-color);}
+
+.home .navbar-light .navbar-nav .nav-link
+
+/* black text*/
+body, h1, h2, h3, h4, h5, h6, p, .common-cnt small, .home-accordion .accordion-button, .copyright .container, .home-accordion .accordion-body, .header-section.sticky .navbar-light .navbar-nav .nav-link, .common-cnt p, .dropdown-item, .common-cnt h2, .dropdown-item:focus,  h1.cmn-hd, h2.cmn-hd, .navbar-light .navbar-nav .nav-link, .dropdown-item.active, .dropdown-item:active, .corevalue-hd, .listing-pages h3 a, .myforms .form-control, .awsm-job-form-control, .evlevate_content_bt p, .evlevate_content p, .row-item.subheading, .cmn-section p a:hover, .corevalue-hd span, .ftr-link li a, .ftr-newsletter input.emailfield, .whyjoin-grids .iconwithtext, .career-tabs .accordion-header span, ul li, div, .heading .row-item, .contact-form label, .indextabs ul li a {color: var(--black-color);}
+
+/* primary Color */
+.dropdown-item:hover, .dropdown-item.active, .dropdown-item:active {color: var(--primary-color);}
+.dropdown-item:focus, .dropdown-item:hover, .dropdown-item.active, .dropdown-item:active {border-bottom-color:var(--primary-color);}
+
+.team-img img, .certified-icon {border:solid 1px #aaa;}
+
+.banner-tags .btn, .values .card, .awsm-job-form-inner, .row_innter-item .btn {background:var(--black-color); border-color:var(--black-color); color:#fff;}
+.home-accordion .accordion-item {border:none; border-bottom: solid 1px #BFC0C2;}
+
+.sidebar-cnt {background: var(--white-color); border:solid 1px #555;}
+
+
+.home-accordion .accordion-button::after {background-image: url(../images/accordion-plus-golden.svg);}
+.home-accordion .accordion-button:not(.collapsed)::after {background-image: url("../images/accordion-minus-golden.svg");}
+.ftr-newsletter input.ftr-submitbtn {background:url("../images/arrow-submit-light-theme.svg") no-repeat center;}
+.footer-section {background: url("../images/footer-bg-lt.png") no-repeat right bottom;}
+
+.ftr-social a img {filter: invert(1);}
+.copyright .container, .footer-section .container {border-top-color:var(--primary-color);}
+.header-section.sticky {background:var(--white-color);}
+
+.contact_heade {border-bottom-color:var(--primary-color);}
+.myforms .form-control {border-bottom:1px solid rgba(0,0,0, 0.5);}
+
+
+.awsm-job-form-control {border:1px solid rgba(0, 0, 0, 0.3); background:#fff;}
+.contact-form .form-control {background:var(--white-color) !important;}
+
+
+
+.dropdown-menu {background:var(--white-color);}
+
+.dropdown:hover > .dropdown-menu, .dropend:hover > .dropdown-menu {box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;}
+
+.midd-inner-banner:before {height: 100%;background-image: linear-gradient(to top, rgba(255,255,255,0), rgba(255,255,255,1));}
+#sgpb-popup-dialog-main-div {background: #ffffff !important;}
+.sgpb-popup-dialog-main-div-wrapper .form-control {color: var(--black-color) !important;}
+
+
+
+/*=========================== White Mode Css  Ketan  ===========================*/
+/* Contact Us page  */
+
+h3, h4, .copyright .col-lg-12, .ftr-newsletter h3, .contactt_details a, .contactt_details, .listing-pages h1, .listing-box, .articlespage .corevalue-hd a, .esteemed-partners-cnt .corevalue-desc, .blog-bg h1.cmn-hd,
+.cmn-section, .wp-block-heading
+  {
+    color: var(--black-color);
+  }
+.testimonial-page h2.text-white {color: var(--black-color) !important;}  
+.contact_list-item .icon svg, .contact_list-item .icon svg path{fill: var(--white-color);}  
+.blog-bg, .certification-page {background: url(../images/white_theme-bg.png) no-repeat top right; background-size:60%;}
+.white_theme_hide {display: none;}   
+.black_theme_hide {display: block;}
+.core_value{background: transparent;}
+.tm_card{background: var(--white-color);border: 1px solid rgba(0,0,0,.125);} 
+.tm_card:hover h4 a {color: var(--black-color);}
+.importance_heading a:hover {color: var(--black-color);}    
+.page-template-templates .contactt_details .form-control-label, 
+.page-template-templates .contactt_details .form-control:focus,
+.page-template-become-a-trainer .contactt_details .form-control-label,
+.page-template-become-a-trainer .contactt_details .form-control:focus
+ {color: var(--black-color);}
+.page-template-templates .contactt_details .form-control,
+.page-template-become-a-trainer .contactt_details .form-control
+ {border-color: var(--body-font-color);}  
+.dropdown-select.wide .list {background: var(--black-color);}
+
+/*=========================== White Theme Css After Live  Ketan  ===========================*/
+.midd-banner-slide .video_title, .navbar-light .navbar-nav .nav-link a, .cta-cnt-area h3, .btn-primary:hover, 
+.btn-check:focus+.btn-primary, .btn-primary:focus, .btn-primary:active:focus, .values .card:hover h3, 
+.certi-listing-brief h3, .home .navbar-light .navbar-nav .nav-link, .row_innter-item .btn:hover, .cta-cnt-area p, 
+.values .card h3, .awsm-job-form-inner h2, .awsm-job-form-group label 
+{
+    color: var(--white-color);
+  }
+.page-template-contactus-template .contactt_details .form-control {
+    border-color: var(--body-font-color) !important;
+}  
+.dropdown-select .option:hover, .dropdown-select .option:focus{color: var(--black-color);}
+.dropdown-select .option{color: var(--body-font-color);}
+.page-template-partner-template .sgpb-main-html-content-wrapper .myforms p .form-control {border-color: rgba(0, 0, 0, 0.5);}
+/* .aicertsform.contactt_details {background-color: #fafafa;}
+.aicertsform .btn-primary.disabled, .aicertsform .btn-primary:disabled {color: var(--primary-color);border-color: var(--primary-color);}
+.aicertsform .btn-primary{background: var(--primary-color);color: var(--white-color);} */
+
+/* ======================================= Train and Certify ======================================= */
+.gform-theme--framework .gform-field-label, .gform-theme--framework .gfield_description {
+    color: var(--black-color);
+}
+  
+@media screen and (max-width:767px) {
+.header-section {background:none;}  
+.blog-bg, .certification-page {background-size: 150%;}
+.home .header-section {background:#000000;}
+.home .header-section.sticky {background: var(--white-color);}
+.indextabs ul li {background:var(--light-gray-color);}
+}
+
+@media screen and (max-width:1199px) {
+.navbar-collapse {background:var(--white-color);}  	
+.blog-bg, .certification-page {background-size: 100%;}
+.home .navbar-light .navbar-nav .nav-link {color: var(--black-color);}
+}	
+  
+.cp-dropdown .dropdown-select, .cp-dropdown .dropdown-select:hover, .cp-dropdown .dropdown-select:focus {border:solid 1px #555; background:var(--white-color) !important;}
+.cp-dropdown .dropdown-select.open .list {background:var(--white-color) !important;}
+.cp-dropdown .dropdown-select .dd-searchbox {background:var(--white-color) !important; color:var(--black-color) !important; border:solid 1px #555;}
+.cp-dropdown .dropdown-select .option:hover, .cp-dropdown .dropdown-select .option:focus {background:var(--primary-color) !important; color:var(--white-color);}  
+
+
+.typefile span.spacing_cover, .wpcf7-form-control-wrap:hover + br + .spacing_cover {background: var(--light-gray-color);}
+input[type=file]::file-selector-button {
+  border: none;
+  background-color: var(--light-gray-color) !important;
+  color: var(--body-font-color);
+}
+
+.country-select .country-list {background-color: var(--light-gray-color) !important; border-color: rgba(0, 0, 0, 0.3);}
+.country-select .country-list .divider {border-color: rgba(0, 0, 0, 0.1);}
+.contact_list-item .icon svg {    filter: invert(1);}  
+.ftr-newsletter .gform-theme--foundation  form .gform_image_button.button {filter:none;}
+
+.gform_fields .ginput_container input[type=text], .gform_fields .ginput_container input.large, .gform_fields .ginput_container textarea.textarea.small, .gform-theme--foundation .ginput_complex select, .gform-theme--foundation .gfield select 
+{color: var(--body-font-color);  background-color: var(--whhite-color); border-color: var(--body-font-color);}
+.contact-form .gform-theme--framework .gform-field-label {color: var(--black-color) !important; }
+/* ======================================= Certification vs Completion ======================================= */
+.certification-vs-completion .row-item:nth-child(2), .certification-vs-completion .row-item:nth-child(3), .completion_grid .table-row:nth-child(odd) { background: transparent;}
+.certification-vs-completion .row-item:nth-child(2)::before {display: none;}
+
+.examdetail {background:var(--light-gray-color);}
+.opp-slider .card {background:var(--light-gray-color);}
+.exam-cards .card {background:var(--white-color);}
+.exam-cards .card:hover h3 {color:var(--white-color);}
+
+.opportunities-slide .owl-theme .owl-dots .owl-dot.active {border-color:var(--primary-color);}
+.opportunities-slide .owl-theme .owl-dots .owl-dot span {background:var(--black-color);}
+.opportunities-slide .owl-theme .owl-dots .owl-dot.active span {background:var(--primary-color);}
+
+.TrainandCertify .ts-control {background: var(--white-color);border-color: var(--body-font-color);}
